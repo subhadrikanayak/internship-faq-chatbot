@@ -1,0 +1,66 @@
+EVALUATION RESULTS (all 47 intents: customer-service + internship)
+=====================================================================
+Test set size: 4332
+Accuracy:             0.9885
+Precision (macro):    0.8041
+Recall (macro):       0.8145
+F1-score (macro):     0.7971
+Precision (weighted): 0.9887
+Recall (weighted):    0.9885
+F1-score (weighted):  0.9883
+
+                          precision    recall  f1-score   support
+
+    application_deadline       1.00      0.50      0.67         2
+     application_process       0.67      1.00      0.80         2
+              attendance       0.33      1.00      0.50         1
+            cancel_order       1.00      1.00      1.00         7
+             certificate       1.00      1.00      1.00         1
+            change_order       0.99      0.98      0.99       185
+ change_shipping_address       1.00      1.00      1.00        22
+  check_cancellation_fee       1.00      1.00      1.00        72
+          check_invoices       0.97      0.98      0.97       203
+   check_payment_methods       1.00      0.96      0.98        54
+     check_refund_policy       1.00      0.96      0.98        95
+               complaint       1.00      1.00      1.00       149
+     contact_coordinator       1.00      1.00      1.00         1
+contact_customer_service       1.00      1.00      1.00       411
+     contact_human_agent       1.00      1.00      1.00       205
+          create_account       0.99      0.99      0.99       425
+          delete_account       0.98      0.98      0.98       183
+        delivery_options       0.97      1.00      0.99        72
+         delivery_period       1.00      1.00      1.00        28
+            edit_account       0.96      1.00      0.98        27
+             eligibility       1.00      0.50      0.67         2
+              evaluation       0.00      0.00      0.00         1
+             get_invoice       0.98      0.97      0.98       284
+              get_refund       0.99      1.00      0.99       230
+   internship_completion       0.00      0.00      0.00         1
+     internship_duration       1.00      0.50      0.67         2
+    internship_extension       0.50      1.00      0.67         1
+          internship_fee       0.00      0.00      0.00         1
+            leave_policy       1.00      1.00      1.00         2
+      mentor_information       1.00      1.00      1.00         1
+ newsletter_subscription       1.00      1.00      1.00        47
+              onboarding       0.00      0.00      0.00         1
+           payment_issue       1.00      1.00      1.00       873
+             place_order       0.88      1.00      0.93        14
+    project_requirements       0.00      0.00      0.00         1
+      project_submission       0.00      0.00      0.00         2
+        recover_password       1.00      1.00      1.00       197
+   registration_problems       1.00      1.00      1.00        26
+      required_documents       0.00      0.00      0.00         2
+                  review       1.00      1.00      1.00       116
+ set_up_shipping_address       1.00      1.00      1.00        19
+                 stipend       1.00      1.00      1.00         1
+          switch_account       0.98      1.00      0.99        55
+       technical_support       1.00      1.00      1.00         1
+             track_order       0.98      0.98      0.98       244
+            track_refund       0.95      0.98      0.97        61
+              work_hours       0.67      1.00      0.80         2
+
+                accuracy                           0.99      4332
+               macro avg       0.80      0.81      0.80      4332
+            weighted avg       0.99      0.99      0.99      4332
+
+Internship-only subset - test examples: 28, accuracy: 0.5714

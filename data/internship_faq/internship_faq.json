@@ -1,0 +1,269 @@
+{
+  "faqs": [
+    {
+      "intent": "eligibility",
+      "questions": [
+        "What are the eligibility criteria for this internship?",
+        "Am I eligible to apply for this internship?",
+        "Who can apply for this internship program?",
+        "What qualifications do I need for this internship?",
+        "Is there a minimum GPA or year of study required?",
+        "Can final year students apply for this internship?",
+        "Do I need prior experience to be eligible?",
+        "What are the requirements to be considered eligible?",
+        "Is this internship open to students from any background?",
+        "Can I apply if I am still in college?"
+      ],
+      "answer": "The exact eligibility criteria are not available in the current internship FAQ. In general, internship eligibility depends on the specific program's requirements (such as year of study, academic background, or skill level). Please check the official internship notice or contact the internship coordinator for the precise eligibility requirements."
+    },
+    {
+      "intent": "application_process",
+      "questions": [
+        "How do I apply for the internship?",
+        "What is the application process for this internship?",
+        "Where do I submit my internship application?",
+        "How can I register for this internship?",
+        "What steps do I follow to apply?",
+        "Is there an online application form?",
+        "How do I complete the internship application?",
+        "What is the procedure to apply for an internship position?",
+        "Can you guide me through the application steps?",
+        "Do I need to send my resume to apply?"
+      ],
+      "answer": "The exact application steps are not available in the current internship FAQ. Typically, applying involves submitting an application form or your resume through the official channel provided by the organization. Please check the official internship notice or contact the internship coordinator for the exact application process."
+    },
+    {
+      "intent": "application_deadline",
+      "questions": [
+        "What is the last date to apply for the internship?",
+        "When is the application deadline?",
+        "Is there still time to submit my application?",
+        "What is the internship application closing date?",
+        "By when should I apply for the internship?",
+        "Has the application deadline passed?",
+        "When do applications close for this internship?",
+        "What is the final submission date for applications?"
+      ],
+      "answer": "The exact application deadline is not available in the current internship FAQ. Please check the official internship notice or contact the internship coordinator for the current deadline, as it may vary by cohort or batch."
+    },
+    {
+      "intent": "internship_duration",
+      "questions": [
+        "What is the internship duration?",
+        "How long is the internship?",
+        "How many weeks does the internship last?",
+        "What is the total length of the internship program?",
+        "How many months is this internship?",
+        "When does the internship start and end?",
+        "Is this a short-term or long-term internship?",
+        "How long will I be working as an intern?"
+      ],
+      "answer": "The exact internship duration is not available in the current internship FAQ. Internship durations typically range from a few weeks to a few months depending on the program. Please check the official internship notice or contact the internship coordinator for the specific duration of your program."
+    },
+    {
+      "intent": "required_documents",
+      "questions": [
+        "What documents do I need to submit?",
+        "What documents are required for the internship?",
+        "What paperwork is needed to join the internship?",
+        "Do I need to submit my ID proof?",
+        "What documents should I upload during registration?",
+        "Is a resume mandatory for the internship?",
+        "What proof of enrollment do I need to provide?",
+        "What documents are required for verification?"
+      ],
+      "answer": "The exact list of required documents is not available in the current internship FAQ. Commonly required documents include a resume, an ID proof, and proof of enrollment (such as a college ID or bonafide certificate), but this varies by program. Please check the official internship notice or contact the internship coordinator for the exact document checklist."
+    },
+    {
+      "intent": "internship_fee",
+      "questions": [
+        "Is there any fee for this internship?",
+        "Do I have to pay to join the internship?",
+        "How much does the internship cost?",
+        "Is this internship free or paid registration?",
+        "Are there any hidden charges for the internship?",
+        "What is the internship registration fee?",
+        "Do I need to pay before starting the internship?"
+      ],
+      "answer": "The exact fee details are not available in the current internship FAQ. Some internship programs are free while others may have a registration fee. Please check the official internship notice or contact the internship coordinator to confirm whether any fee applies."
+    },
+    {
+      "intent": "stipend",
+      "questions": [
+        "Is there a stipend for this internship?",
+        "Will I be paid during the internship?",
+        "How much stipend will I receive?",
+        "Is this a paid internship?",
+        "When will the stipend be credited?",
+        "Do all interns receive a stipend?",
+        "What is the stipend amount for this internship?"
+      ],
+      "answer": "The exact stipend amount is not available in the current internship FAQ. Whether a stipend is provided, and its amount, depends on the specific internship program. Please check the official internship notice or contact the internship coordinator for stipend-related details."
+    },
+    {
+      "intent": "mentor_information",
+      "questions": [
+        "Who will be my mentor during the internship?",
+        "How do I get assigned a mentor?",
+        "Can I contact my mentor directly?",
+        "Will I have a dedicated mentor for guidance?",
+        "How do mentors support interns in this program?",
+        "What is the role of a mentor in this internship?",
+        "How often will I meet my mentor?"
+      ],
+      "answer": "Specific mentor names and assignment details are not available in the current internship FAQ. Typically, interns are assigned a mentor who provides guidance and support throughout the program. Please check the official internship notice or contact the internship coordinator for information about your assigned mentor."
+    },
+    {
+      "intent": "project_submission",
+      "questions": [
+        "How do I submit my project?",
+        "What is the process for submitting the final project?",
+        "Where should I upload my completed project?",
+        "Is there a specific format for project submission?",
+        "What is the project submission deadline?",
+        "Can I resubmit my project if there are errors?",
+        "How do I know my project was submitted successfully?"
+      ],
+      "answer": "The exact project submission process is not available in the current internship FAQ. Typically, projects are submitted through an official portal, email, or repository link before a specified deadline. Please check the official internship notice or contact the internship coordinator for the exact submission process."
+    },
+    {
+      "intent": "project_requirements",
+      "questions": [
+        "What are the requirements for the final project?",
+        "What should my internship project include?",
+        "Are there specific guidelines for the project?",
+        "What topics can I choose for my project?",
+        "Is there a minimum scope required for the project?",
+        "What deliverables are expected for the project?",
+        "Do I need to submit documentation with my project?"
+      ],
+      "answer": "The exact project requirements are not available in the current internship FAQ. Project requirements and guidelines typically vary by track or domain. Please check the official internship notice or contact the internship coordinator for the specific project requirements."
+    },
+    {
+      "intent": "evaluation",
+      "questions": [
+        "How is the internship evaluated?",
+        "What is the evaluation criteria for interns?",
+        "How will my performance be assessed?",
+        "Is there a test or exam during the internship?",
+        "What factors are considered in the final evaluation?",
+        "How do I know if I passed the internship evaluation?",
+        "Is attendance considered in the evaluation?"
+      ],
+      "answer": "The exact evaluation criteria are not available in the current internship FAQ. Evaluation typically considers factors such as project quality, attendance, and engagement, but the specific weighting varies by program. Please check the official internship notice or contact the internship coordinator for the exact evaluation process."
+    },
+    {
+      "intent": "certificate",
+      "questions": [
+        "Will I receive a certificate after the internship?",
+        "How do I get my internship completion certificate?",
+        "When will the certificate be issued?",
+        "Is the certificate provided digitally or physically?",
+        "What are the requirements to receive a certificate?",
+        "Can I download my certificate online?",
+        "Is a certificate guaranteed for all interns?"
+      ],
+      "answer": "The exact certificate issuance details are not available in the current internship FAQ. Certificates are typically issued upon successful completion of the internship requirements, but the exact process and timeline vary. Please check the official internship notice or contact the internship coordinator for certificate-related details."
+    },
+    {
+      "intent": "attendance",
+      "questions": [
+        "Is attendance mandatory during the internship?",
+        "What happens if I miss a session?",
+        "How is attendance tracked during the internship?",
+        "What is the minimum attendance requirement?",
+        "Will I be marked absent if I miss a meeting?",
+        "Can I make up for missed attendance?",
+        "Is attendance considered for the certificate?"
+      ],
+      "answer": "The exact attendance policy is not available in the current internship FAQ. Many internship programs require a minimum attendance level, but the specific requirement varies. Please check the official internship notice or contact the internship coordinator for the attendance policy."
+    },
+    {
+      "intent": "work_hours",
+      "questions": [
+        "What are the working hours for this internship?",
+        "How many hours per day do I need to work?",
+        "Is this a full-time or part-time internship?",
+        "Are the working hours flexible?",
+        "Do I need to work on weekends?",
+        "What is the daily time commitment for this internship?",
+        "Can I choose my own working hours?"
+      ],
+      "answer": "The exact working hours are not available in the current internship FAQ. Working hours and flexibility vary depending on whether the internship is full-time, part-time, or remote. Please check the official internship notice or contact the internship coordinator for the specific work-hour expectations."
+    },
+    {
+      "intent": "internship_extension",
+      "questions": [
+        "Can I extend my internship duration?",
+        "How do I request an internship extension?",
+        "Is it possible to continue the internship after completion?",
+        "What is the process for extending my internship?",
+        "Can I convert my internship into a longer program?",
+        "Who do I contact to extend my internship?"
+      ],
+      "answer": "The exact extension policy is not available in the current internship FAQ. Some programs allow extensions under certain conditions, while others do not. Please check the official internship notice or contact the internship coordinator to ask about extending your internship."
+    },
+    {
+      "intent": "contact_coordinator",
+      "questions": [
+        "How do I contact my internship coordinator?",
+        "What is the email address for the internship coordinator?",
+        "Who do I reach out to for internship-related queries?",
+        "How can I get in touch with the program organizers?",
+        "Is there a support email for internship questions?",
+        "Who should I contact if I have an issue during my internship?"
+      ],
+      "answer": "Specific contact details are not available in the current internship FAQ. Please refer to the official internship notice, welcome email, or onboarding document for the correct contact information for your internship coordinator."
+    },
+    {
+      "intent": "onboarding",
+      "questions": [
+        "What is the onboarding process for new interns?",
+        "What happens on my first day of the internship?",
+        "How do I get started once I am selected?",
+        "Will I receive an orientation before starting?",
+        "What should I prepare before my internship begins?",
+        "Do I need any software installed before starting?"
+      ],
+      "answer": "The exact onboarding process is not available in the current internship FAQ. Onboarding typically includes an orientation session and initial setup instructions provided closer to the start date. Please check the official internship notice or contact the internship coordinator for onboarding details."
+    },
+    {
+      "intent": "internship_completion",
+      "questions": [
+        "What are the requirements to complete the internship?",
+        "How do I know if I have successfully completed the internship?",
+        "What happens after I complete my internship?",
+        "Is there a final task to mark internship completion?",
+        "What is considered a successful completion of the program?",
+        "Do I get feedback after completing the internship?"
+      ],
+      "answer": "The exact completion requirements are not available in the current internship FAQ. Completion is typically based on meeting attendance, evaluation, and project requirements set by the program. Please check the official internship notice or contact the internship coordinator for the exact completion criteria."
+    },
+    {
+      "intent": "leave_policy",
+      "questions": [
+        "Can I take leave during my internship?",
+        "What is the leave policy for interns?",
+        "How many leaves am I allowed during the internship?",
+        "Do I need to inform someone before taking leave?",
+        "What happens if I take too many leaves?",
+        "Is sick leave allowed during the internship?",
+        "How do I apply for leave during my internship?"
+      ],
+      "answer": "The exact leave policy is not available in the current internship FAQ. Leave policies and allowed limits vary by program. Please check the official internship notice or contact the internship coordinator for the specific leave policy."
+    },
+    {
+      "intent": "technical_support",
+      "questions": [
+        "I am facing a technical issue, who do I contact?",
+        "The portal is not working, what should I do?",
+        "I cannot log into the internship platform",
+        "Who do I contact for technical support during the internship?",
+        "I am unable to submit my project due to a technical error",
+        "The internship website is not loading properly",
+        "I am having trouble accessing my internship account"
+      ],
+      "answer": "Specific technical support contact details are not available in the current internship FAQ. Please check the official internship notice or contact the internship coordinator or technical support team for help resolving platform or account issues."
+    }
+  ]
+}

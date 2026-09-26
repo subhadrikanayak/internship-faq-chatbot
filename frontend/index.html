@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Internship FAQ & AI Assistant</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="chat-container">
+    <header class="chat-header">
+      <div class="header-title">
+        <span class="bot-dot"></span>
+        <h1>Internship FAQ & AI Assistant</h1>
+      </div>
+      <p class="header-sub">Internship FAQ &middot; NLP Intent Matching &middot; Gemini AI</p>
+    </header>
+
+    <main id="chatWindow" class="chat-window">
+      <div class="message bot-message">
+        <div class="bubble">
+          Hi! I can help with internship questions (eligibility, application process,
+          duration, stipend, certificate, and more), and I can also answer general
+          questions. Ask me anything!
+        </div>
+      </div>
+    </main>
+
+    <div id="errorBanner" class="error-banner" hidden></div>
+
+    <form id="chatForm" class="chat-input-area" autocomplete="off">
+      <input
+        type="text"
+        id="userInput"
+        placeholder="Ask about your internship, or anything else..."
+        aria-label="Type your message"
+        required
+      />
+      <button type="submit" id="sendBtn">Send</button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

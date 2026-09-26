@@ -1,0 +1,32 @@
+# Environments
+.env
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# NLTK data
+nltk_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Processed / generated data
+data/processed/*.csv
+
+# Evaluation outputs
+evaluation/*.png
